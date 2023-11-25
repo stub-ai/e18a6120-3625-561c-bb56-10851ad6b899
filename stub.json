@@ -1,0 +1,1 @@
+{"config":{"system_prompt":"","model":"","temperature":0,"top_p":1,"framework":"nextjs-page-tailwind"},"prompts":[{"prompt":"Create a JavaScript function that performs conversions from euros to dollars based on the current day's exchange rate.","md5":"e6e696b67432b1fca94fb059c63017fc"}]}
